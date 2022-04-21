@@ -2,6 +2,9 @@
 ## Changelog
 
 
+<a name="v.1.0.2"></a>
+## [v.1.0.2] - 2022-04-21
+
 <a name="v.1.01"></a>
 ## [v.1.01] - 2022-04-21
 ### Documentation
@@ -16,7 +19,8 @@
 
 
 <a name="v.1.00"></a>
-## [v.1.00] - 2022-04-21
+## v.1.00 - 2022-04-21
 
-[Unreleased]: https://github.com/xiaobreakoutnetwork/changlogtest/compare/v.1.01...HEAD
+[Unreleased]: https://github.com/xiaobreakoutnetwork/changlogtest/compare/v.1.0.2...HEAD
+[v.1.0.2]: https://github.com/xiaobreakoutnetwork/changlogtest/compare/v.1.01...v.1.0.2
 [v.1.01]: https://github.com/xiaobreakoutnetwork/changlogtest/compare/v.1.00...v.1.01
